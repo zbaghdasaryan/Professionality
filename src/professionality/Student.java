@@ -47,7 +47,7 @@ public class Student {
         if (days == 1) {
             System.out.println("Now it's the exact time to prepare for exam.");
         } else {
-            System.out.println("You can continue watching films or read book or whatever :D");
+            System.out.println("You can continue watching films or read book or whatever you were doing.");
         }
     }
 }
